@@ -1,0 +1,15 @@
+mp3=http://dutycyclegenerator.com/sound/Dropzone/Dropzone 01.mp3|http://dutycyclegenerator.com/sound/Dropzone/Dropzone 02.mp3
+title=Dropzone 01|Dropzone 02
+bgcolor1=333333
+bgcolor2=333333
+buttoncolor=dddddd
+buttonovercolor=ffffff
+slidercolor1=dddddd
+slidercolor2=cccccc
+sliderovercolor=ffffff
+textcolor=999999
+playlistcolor=999999
+currentmp3color=ffffff
+scrollbarcolor=cccccc
+scrollbarovercolor=ffffff
+showvolume=1

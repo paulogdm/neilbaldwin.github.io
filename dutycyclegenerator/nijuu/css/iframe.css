@@ -1,0 +1,30 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	font-family:Courier, monospace,"Courier New";
+	font-size:14px;
+	padding: 0;
+	margin-top: 0;
+	margin-right: 20;
+	margin-bottom: 0;
+	margin-left: 20;
+}
+
+a {
+	color:#333;
+	font-weight:bold;
+}
+
+h1 {
+	font-size: 14px;
+	margin: 0px;
+	padding: 0px;
+}
+
+h2 {
+	font-size: 16px;
+	margin: 0px;
+	padding: 0px;
+	padding-top:10px;
+}

@@ -1,0 +1,15 @@
+mp3=sound/Erik The Viking/01 To The Death.mp3|sound/Erik The Viking/02 Peace In The Harbor.mp3|sound/Erik The Viking/03 Spirit Of Adventure.mp3|sound/Erik The Viking/04 New Dawn (Erik The Viking Theme).mp3|sound/Erik The Viking/05 Days Of Ocean Blue.mp3|sound/Erik The Viking/06 Labyrinth Battle.mp3|sound/Erik The Viking/07 Fanfare 01.mp3|sound/Erik The Viking/08 Village Life.mp3|sound/Erik The Viking/09 Caves.mp3|sound/Erik The Viking/10 Dragon Dance.mp3|sound/Erik The Viking/11 Consequences.mp3|sound/Erik The Viking/12 Land Of Sorrow.mp3|sound/Erik The Viking/13 Giant's Harp (Peace Restored).mp3|sound/Erik The Viking/14 Fanfare 02.mp3|sound/Erik The Viking/15 Quest Failed.mp3
+title=To The Death|Peace In The Harbor|Spirit Of Adventure|New Dawn (Erik The Viking Theme)|Days Of Ocean Blue|Labyrinth Battle|Fanfare 01|Village Life|Caves|Dragon Dance|Consequences|Land Of Sorrow|Giant's Harp (Peace Restored)|Fanfare 02|Quest Failed
+bgcolor1=333333
+bgcolor2=333333
+buttoncolor=dddddd
+buttonovercolor=ffffff
+slidercolor1=dddddd
+slidercolor2=cccccc
+sliderovercolor=ffffff
+textcolor=999999
+playlistcolor=999999
+currentmp3color=ffffff
+scrollbarcolor=cccccc
+scrollbarovercolor=ffffff
+showvolume=1

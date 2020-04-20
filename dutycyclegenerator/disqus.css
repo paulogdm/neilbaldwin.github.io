@@ -1,0 +1,35 @@
+@charset "UTF-8";
+
+#disqus_thread #dsq-content #dsq-item-cp
+{
+	font-size: 20px;
+}
+
+textarea {
+	background-color: #cccccc;
+	color: #333333;
+}
+
+#post-choices span.help a {
+	color: #cccccc;
+	border-style:dotted;
+	border-width:0 0 1px;
+	cursor:help;
+	text-decoration:none;
+}
+
+body a {
+	color: #000000;
+}
+
+.form-text-label {
+	font-weight: normal;
+}
+
+#dsq-content #dsq-comments .dsq-comment-header {
+background-color: #000000;
+}
+
+#dsq-content #dsq-comments .dsq-comment.special .dsq-comment-header {
+background-color: #000000;
+}

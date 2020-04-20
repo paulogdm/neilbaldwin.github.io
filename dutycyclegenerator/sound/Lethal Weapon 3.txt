@@ -1,0 +1,15 @@
+mp3=sound/Lethal Weapon 3/Lethal Weapon 3 01.mp3|sound/Lethal Weapon 3/Lethal Weapon 3 02.mp3|sound/Lethal Weapon 3/Lethal Weapon 3 03.mp3|sound/Lethal Weapon 3/Lethal Weapon 3 04.mp3|sound/Lethal Weapon 3/Lethal Weapon 3 05.mp3|sound/Lethal Weapon 3/Lethal Weapon 3 06.mp3|sound/Lethal Weapon 3/Lethal Weapon 3 07.mp3|sound/Lethal Weapon 3/Lethal Weapon 3 08.mp3|sound/Lethal Weapon 3/Lethal Weapon 3 09.mp3|sound/Lethal Weapon 3/Lethal Weapon 3 10.mp3
+title=Lethal Weapon 3 01|Lethal Weapon 3 02|Lethal Weapon 3 03|Lethal Weapon 3 04|Lethal Weapon 3 05|Lethal Weapon 3 06|Lethal Weapon 3 07|Lethal Weapon 3 08|Lethal Weapon 3 09|Lethal Weapon 3 10
+bgcolor1=333333
+bgcolor2=333333
+buttoncolor=dddddd
+buttonovercolor=ffffff
+slidercolor1=dddddd
+slidercolor2=cccccc
+sliderovercolor=ffffff
+textcolor=999999
+playlistcolor=999999
+currentmp3color=ffffff
+scrollbarcolor=cccccc
+scrollbarovercolor=ffffff
+showvolume=1

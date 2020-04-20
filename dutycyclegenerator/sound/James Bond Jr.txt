@@ -1,0 +1,15 @@
+mp3=sound/James Bond Jr/James Bond Jr 01.mp3|sound/James Bond Jr/James Bond Jr 02.mp3|sound/James Bond Jr/James Bond Jr 03.mp3|sound/James Bond Jr/James Bond Jr 04.mp3|sound/James Bond Jr/James Bond Jr 05.mp3|sound/James Bond Jr/James Bond Jr 06.mp3|sound/James Bond Jr/James Bond Jr 07.mp3|sound/James Bond Jr/James Bond Jr 08.mp3|sound/James Bond Jr/James Bond Jr 09.mp3|sound/James Bond Jr/James Bond Jr 10.mp3|sound/James Bond Jr/James Bond Jr 11.mp3
+title=James Bond Jr 01|James Bond Jr 02|James Bond Jr 03|James Bond Jr 04|James Bond Jr 05|James Bond Jr 06|James Bond Jr 07|James Bond Jr 08|James Bond Jr 09|James Bond Jr 10|James Bond Jr 11
+bgcolor1=333333
+bgcolor2=333333
+buttoncolor=dddddd
+buttonovercolor=ffffff
+slidercolor1=dddddd
+slidercolor2=cccccc
+sliderovercolor=ffffff
+textcolor=999999
+playlistcolor=999999
+currentmp3color=ffffff
+scrollbarcolor=cccccc
+scrollbarovercolor=ffffff
+showvolume=1

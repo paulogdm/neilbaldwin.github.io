@@ -1,0 +1,15 @@
+mp3=sound/Ferrari Grand Prix/Ferrari Grand Prix 01.mp3|sound/Ferrari Grand Prix/Ferrari Grand Prix 02.mp3|sound/Ferrari Grand Prix/Ferrari Grand Prix 03.mp3|sound/Ferrari Grand Prix/Ferrari Grand Prix 04.mp3|sound/Ferrari Grand Prix/Ferrari Grand Prix 05.mp3|sound/Ferrari Grand Prix/Ferrari Grand Prix 06.mp3|sound/Ferrari Grand Prix/Ferrari Grand Prix 07.mp3|sound/Ferrari Grand Prix/Ferrari Grand Prix 08.mp3|sound/Ferrari Grand Prix/Ferrari Grand Prix 09.mp3
+title=Ferrari Grand Prix 01|Ferrari Grand Prix 02|Ferrari Grand Prix 03|Ferrari Grand Prix 04|Ferrari Grand Prix 05|Ferrari Grand Prix 06|Ferrari Grand Prix 07|Ferrari Grand Prix 08|Ferrari Grand Prix 09
+bgcolor1=333333
+bgcolor2=333333
+buttoncolor=dddddd
+buttonovercolor=ffffff
+slidercolor1=dddddd
+slidercolor2=cccccc
+sliderovercolor=ffffff
+textcolor=999999
+playlistcolor=999999
+currentmp3color=ffffff
+scrollbarcolor=cccccc
+scrollbarovercolor=ffffff
+showvolume=1

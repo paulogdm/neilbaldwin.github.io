@@ -1,0 +1,15 @@
+mp3=sound/Hero Quest/Hero Quest 01.mp3|sound/Hero Quest/Hero Quest 02.mp3|sound/Hero Quest/Hero Quest 03.mp3|sound/Hero Quest/Hero Quest 04.mp3|sound/Hero Quest/Hero Quest 05.mp3
+title=Hero Quest 01|Hero Quest 02|Hero Quest 03|Hero Quest 04|Hero Quest 05
+bgcolor1=333333
+bgcolor2=333333
+buttoncolor=dddddd
+buttonovercolor=ffffff
+slidercolor1=dddddd
+slidercolor2=cccccc
+sliderovercolor=ffffff
+textcolor=999999
+playlistcolor=999999
+currentmp3color=ffffff
+scrollbarcolor=cccccc
+scrollbarovercolor=ffffff
+showvolume=1

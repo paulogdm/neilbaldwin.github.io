@@ -1,0 +1,297 @@
+@charset "UTF-8";
+
+* {
+	padding:0px;
+	margin:0px;
+	font-size:13px;
+	font-family: Courier, "Courier New", monospace;
+}
+
+a {
+	color:#000000;
+}
+
+body {
+	background-color: #CCCCCC;
+	padding-left:20px;
+	padding-right:20px;
+	text-align: left;
+}
+
+body p {
+	margin-bottom:20px;
+}
+
+h1 {
+	line-height:16px;
+	padding-top:10px;
+}
+
+h2 {
+	line-height:20px;
+	font-weight:normal;
+	padding: 0px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	text-align: left;
+}
+
+h3 {
+	font-weight:bold;
+}
+
+p {
+	margin-bottom:10px;
+	padding: 10;
+}
+
+.header {
+	width:100%;
+	height:100px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.headerImage {
+	width:450px;
+	height:80px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:0px;
+	padding-top:-10px;
+	margin-bottom: 5px;
+}
+
+.headerText {
+	margin-left:auto;
+	margin-right:100px;
+	color: #CCCCCC;
+}
+	
+
+.footer {
+	width:100%;
+	height:64px;
+	margin-left:auto;
+	margin-right:auto;
+	background-color:#333333;
+]	color: #CCCCCC;
+}
+
+.footer p {
+	background-color: #003399;
+	padding: 0;
+	margin-top: 0;
+	margin-right: 0;
+	margin-bottom: 2;
+	margin-left: 0;
+}
+
+
+.container {
+	background-color: #333333;
+	overflow:hidden;
+	width: 632px;
+	height: 100%;
+	margin-left:auto;
+	margin-right:auto;
+	margin-bottom:0px;
+}
+
+.container p {
+	margin-bottom:10px;
+	margin-top: 10px;
+}
+
+
+.tl1, .tr1, .bl1, .br1 {
+	height:8px;
+	width:8px;
+}
+
+.tl2, .tr2, .bl2, .br2 {
+	height:4px;
+	width:4px;
+}
+
+.tl1, .bl1, .tl2, .bl2 {
+	float:left;
+}
+
+.tr1, .br1, .tr2, .br2 {
+	float:right;
+}
+
+.bigGreyBoxContent {
+	clear:both;
+	overflow:hidden;
+	padding-left:10px;
+	padding-right:10px;
+	color: #000000;
+	line-height: 18px;
+}
+
+* html .bigGreyBoxContent {
+	height:1%;
+}
+
+.bigGreyBox {
+	margin-left:auto;
+	margin-right:auto;
+	margin-bottom:20px;
+	background-color:#999999;
+	width:600px;
+	overflow:hidden;
+}
+
+.bigGreyBoxFooter {
+	font-size:12px;
+	text-align:right;
+}
+
+.bigGreyBox .tl1 {
+	background-image:url(../images/tl1.png)
+}
+
+.bigGreyBox p {
+	margin-bottom:10px;
+}
+
+.smallGreyBox p {
+	margin-bottom:0px;
+}
+
+.smallGreyBox a {
+	color:#CCCCCC;
+}
+
+.bigGreyBox .tr1 {
+	background-image:url(../images/tr1.png)
+}
+
+.bigGreyBox .bl1 {
+	background-image:url(../images/bl1.png)
+
+}
+
+.bigGreyBox .br1 {
+	background-image:url(../images/br1.png)
+
+}
+
+.smallGreyBox {
+	float:right;
+	margin-left:0px;
+	margin-right:0px;
+	margin-top:10px;
+	margin-bottom:auto;
+	background-color:#333333;
+	width:285px;
+	overflow:hidden;
+}
+
+.smallGreyBoxContent {
+	clear:both;
+	overflow:hidden;
+	height:81px;
+	color: #CCCCCC;
+	padding-bottom:-10px;
+	padding-right:0px;
+	padding-left:10px;
+	padding-top:10px;
+}
+
+.smallGreyBoxContent, .smallGreyBoxContent p {
+		font-size:12px;
+}
+
+
+.smallGreyBox .tl2 {
+	background-image:url(../images/tl2.png)
+}
+
+.smallGreyBox .tr2 {
+	background-image:url(../images/tr2.png)
+}
+
+.smallGreyBox .bl2 {
+	background-image:url(../images/bl2.png)
+
+}
+
+.smallGreyBox .br2 {
+	background-image:url(../images/br2.png)
+
+}
+
+.smallGreyBox p {
+	padding:0px;
+	margin:0px;
+}
+
+.mediaContent {
+	background-color:#999999;
+	width:100%;
+	height:120px;
+	border-top-width: thin;
+	border-right-width: thin;
+	border-bottom-width: thin;
+	border-left-width: thin;
+	border-top-style: dotted;
+	border-right-style: none;
+	border-bottom-style: dotted;
+	border-left-style: none;
+	border-top-color: #333333;
+	border-right-color: #333333;
+	border-bottom-color: #333333;
+	border-left-color: #333333;
+	margin: 0px;
+	padding-top:0px;
+	padding-bottom:0px;
+	clear: both;
+}
+
+.mediaPlayer {
+	float:left;
+	margin-left:0px;
+	margin-top: 10px;
+	margin-bottom: auto;
+}
+
+.code {
+	font-family: Courier, "Courier New", monospace;
+	border-style:dashed;
+	border-width:thin;
+	padding:10px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:10px;
+	margin-bottom:10px;
+	width:500px;
+	height:auto;
+	background-color:#CCCCCC;
+	text-align: center;
+}	
+
+.code p {
+	padding:0px;
+	margin:0px;
+}
+
+.code li {
+	font-family:"Courier New", Courier, monospace;
+	list-style-image: none;
+	list-style-type: none;
+	text-align: left;
+}
+	
+	
+.gameImage {
+	float:left;
+	margin-right:20px;
+	margin-top:15px;
+}
+	
+.rss {
+	float: right;
+}

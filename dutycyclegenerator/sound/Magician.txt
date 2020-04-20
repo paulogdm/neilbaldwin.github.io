@@ -1,0 +1,15 @@
+mp3=sound/Magician/Magician 01.mp3|sound/Magician/Magician 02.mp3|sound/Magician/Magician 03.mp3|sound/Magician/Magician 04.mp3|sound/Magician/Magician 05.mp3|sound/Magician/Magician 06.mp3|sound/Magician/Magician 07.mp3|sound/Magician/Magician 08.mp3|sound/Magician/Magician 09.mp3|sound/Magician/Magician 10.mp3|sound/Magician/Magician 11.mp3|sound/Magician/Magician 12.mp3|sound/Magician/Magician 13.mp3|sound/Magician/Magician 14.mp3|sound/Magician/Magician 15.mp3|sound/Magician/Magician 16.mp3|sound/Magician/Magician 17.mp3|sound/Magician/Magician 18.mp3|sound/Magician/Magician 19.mp3
+title=Magician 01|Magician 02|Magician 03|Magician 04|Magician 05|Magician 06|Magician 07|Magician 08|Magician 09|Magician 10|Magician 11|Magician 12|Magician 13|Magician 14|Magician 15|Magician 16|Magician 17|Magician 18|Magician 19
+bgcolor1=333333
+bgcolor2=333333
+buttoncolor=dddddd
+buttonovercolor=ffffff
+slidercolor1=dddddd
+slidercolor2=cccccc
+sliderovercolor=ffffff
+textcolor=999999
+playlistcolor=999999
+currentmp3color=ffffff
+scrollbarcolor=cccccc
+scrollbarovercolor=ffffff
+showvolume=1
